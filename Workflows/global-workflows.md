@@ -2,7 +2,7 @@
 
 ## 工作流加载机制
 - 自动加载当前目录所有 `*.workflows.md` 文件
-- 支持项目级工作流：`.cline/workflows/project-global-workflows.md`
+- 支持项目级补充工作流：`.cline/workflows/*.md`
 
 ## 核心工作流
 
